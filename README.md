@@ -10,7 +10,7 @@ TBD
 TBD
 
 ### 3.	World Happiness Report 
-
+https://github.com/meenakshishankara/Portfolio/blob/main/WorldHappinessReport/README.md
 The World Happiness Report gives happiness scores and ranking for each of the countries. This provides a valuable insight into the least and most happy countries and what contributes to their rankings. This research is my attempt to dig a little more into what contributes to general happiness and do the factors on which the survey was conducted indeed are factors to one’s happiness.
 
 ### 4.	Census Income Prediction 
@@ -27,7 +27,7 @@ Heart Disease is one of the major causes of death in the USA. Many factors contr
 The objective of this project is to analyze the different factors that may contribute to the health of the heart and build a prediction model that can predict heart diseases in patients. Accurate prediction will help in identifying health issues in the early stages and treating them in time.
 
 ### 7.	Vegan and Vegetarian Restaurants in US 
-
+(https://github.com/meenakshishankara/Portfolio/blob/main/VeganRestaurants_US/README.md)
 The objective of this project is to analyze the rise of vegan and vegetarian restaurants across the US amidst fast food and other restaurants. For this analysis, I will be working with 3 datasets. The datasets provide the information related to restaurants and fast foods eateries which include the location, name, cuisine, categories, data added to the system etc. which will help us analyze across various factors.
 
 ### 8.	Weather App
