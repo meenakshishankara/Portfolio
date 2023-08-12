@@ -1,16 +1,15 @@
-# Portfolio
+# Portfolio projects
 ### Meenakshi Shankara
 
 
 ## List of Projects
-### 1.	Project 1: Placeholder
-TBD
+### 1.	Twitter Sentiment Analysis
+Twitter Sentiment Analysis is important for understanding Customer Feedback, in reputation management, political analysis, crisis management, marketing research to name a few. In this project, we try to implement NLP Twitter sentiment analysis models that help to overcome the challenges of sentiment classification of tweets. We will be building a model that will give us the most accurate prediction of the sentiment of the tweet.
 
-### 2.	Project 2: Placeholder
-TBD
+### 2.	Movie Recommender System
+The objective of this project is to use the small MovieLens data set, create a recommender system that allows users to input a movie they like (in the data set) and recommends ten other movies for them to watch.
 
 ### 3.	World Happiness Report 
-https://github.com/meenakshishankara/Portfolio/blob/main/WorldHappinessReport/README.md
 
 The World Happiness Report gives happiness scores and ranking for each of the countries. This provides a valuable insight into the least and most happy countries and what contributes to their rankings. This research is my attempt to dig a little more into what contributes to general happiness and do the factors on which the survey was conducted indeed are factors to one’s happiness.
 
@@ -28,7 +27,6 @@ Heart Disease is one of the major causes of death in the USA. Many factors contr
 The objective of this project is to analyze the different factors that may contribute to the health of the heart and build a prediction model that can predict heart diseases in patients. Accurate prediction will help in identifying health issues in the early stages and treating them in time.
 
 ### 7.	Vegan and Vegetarian Restaurants in US 
-https://github.com/meenakshishankara/Portfolio/blob/main/VeganRestaurants_US/README.md
 
 The objective of this project is to analyze the rise of vegan and vegetarian restaurants across the US amidst fast food and other restaurants. For this analysis, I will be working with 3 datasets. The datasets provide the information related to restaurants and fast foods eateries which include the location, name, cuisine, categories, data added to the system etc. which will help us analyze across various factors.
 
@@ -36,7 +34,12 @@ The objective of this project is to analyze the rise of vegan and vegetarian res
    
 Developed a weather application using python code. This application takes the city name or zip code as input and provides the temperature as output.
 
+### 9.    Time Series Modeling
+The objective of this project is to build a predictive model for monthly retail sales.
 
+### 10.    Variational Autoencoder on MNIST Data
+
+The objective of this project is to implement a variational autoencoder using the MNIST data set and save a grid of 15 x 15 digits to the results/vae directory.
 
 
 
