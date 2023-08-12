@@ -55,3 +55,8 @@ Shankara, M. (2023, July 23). Twitter Sentiment Analysis. https://github.com/mee
 
 # Contact
 For any questions and/or suggestions please contact meenakshishankara@gmail.com
+
+# Return to my Portfolio
+https://meenakshishankara.github.io/projects.html 
+
+
