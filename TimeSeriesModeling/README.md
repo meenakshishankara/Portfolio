@@ -45,6 +45,6 @@ https://github.com/meenakshishankara/Portfolio/tree/main/TimeSeriesModeling
 # Contact
 For any questions and/or suggestions please contact meenakshi.shankara@gmail.com
 
-# Return to Portfolio
-
+# Return to my Portfolio
+https://meenakshishankara.github.io/projects.html 
 
