@@ -7,6 +7,7 @@ and do the factors on which the survey was conducted indeed are factors to oneâ€
 
 ## Dataset
 The dataset that is being considered for this analysis is extracted from Kaggle website.
+
 https://www.kaggle.com/datasets/unsdsn/world-happiness?datasetId=894&sortBy=dateCreated 
 
 ## Repository 
@@ -14,7 +15,7 @@ This repo has the code file, a white paper and presentation deck explaining the 
 
 ## Pre-requisites
 Ensure Python3 is installed.
-Depending on the code requirements, you may need to install packages before importing them in the code
+Depending on the code requirements, you may need to install packages before importing them in the code.
 Since this is a jupyter notebook, ensure you have a jupyter environment/interface available
 
 ## Execution
@@ -24,10 +25,17 @@ Once the pre-requisites are taken care of, please follow the below steps -
 3. Update the code to your path where the datafiles are saved
 4. Execute each cell of the notebook
 5. Please note, the code could most definitely be improved in performance, model accuracy, efficiency.
-   
+
+## References
+https://www.kaggle.com/datasets/unsdsn/world-happiness?datasetId=894&sortBy=dateCreated
+
+https://www.r-bloggers.com/2021/11/a-structural-model-of-the-world-happiness-report/ 
+
+https://www.forbes.com/sites/traversmark/2020/11/16/4-takeaways-from-this-years-world-happiness-report/?sh=47d474bf2b10 
+
 ## Acknowledgement 
 This code was developed as part of learning by Meenakshi Shankara.
-If you plan to use it, please provide appropriate citations to the dataset and other pages you might have refered for your learning process.
+If you plan to use it, please provide appropriate citations to the dataset and other pages you might have referred for your learning process.
 
 ## Contact
-For any questions and/or suggestions please contact meenakshishankara@gmail.com 
+For any questions and/or suggestions please contact meenakshishankara@gmail.com.
