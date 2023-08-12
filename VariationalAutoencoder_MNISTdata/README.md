@@ -28,7 +28,6 @@ Once the pre-requisites are taken care of, please follow the below steps -
 4. Execute each cell of the notebook
 Please note, the code could most definitely be improved in performance, accuracy, and efficiency.
 
-
 # Reference
 
 MNIST Dataset in Python - 
@@ -49,6 +48,7 @@ https://github.com/meenakshishankara/Portfolio/tree/main/VariationalAutoencoder_
 # Contact
 For any questions and/or suggestions please contact meenakshi.shankara@gmail.com
 
-# Return to Portfolio
+# Return to my Portfolio
+https://meenakshishankara.github.io/projects.html 
 
 
