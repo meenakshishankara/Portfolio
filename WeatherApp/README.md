@@ -12,7 +12,7 @@ This repo has the python code file.
 
 The code makes an API call to the Open Weather Map along with the zipcode or the city name.
 
-#Pre-requisites
+# Pre-requisites
 
 The code for this app was created on pycharm. Ensure the appropriate version of Python is installed.
 You may need to install the packages in case the import step in the code fails.
