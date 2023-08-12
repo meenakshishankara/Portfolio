@@ -14,7 +14,7 @@ The dataset is extracted from Kaggle website. I am using twitter_training.csv as
 
 https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?resource=download&select=twitter_validation.csv 
 
-#Pre-requisites
+# Pre-requisites
 
 Ensure Python3 is installed.
 Depending on the code requirements, you may need to install packages before importing them in the code.
